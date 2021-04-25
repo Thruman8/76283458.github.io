@@ -1,2 +1,2 @@
-# 76283458.github.io
+# Thruman.github.io
 Mi primer repositorio de github pages
