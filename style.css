@@ -1,0 +1,65 @@
+*{
+    padding: 0px;
+    text-align: center;
+}
+
+
+
+/****Cabecera****/
+
+
+body{
+    background-color: rgb(190, 190, 190);
+}
+
+header{
+    background-color: cornsilk;
+}
+
+.uno{
+    padding: 5px ;  
+    display: inline-block;
+    float: left;
+    font-size: 45px;
+    margin: 1px;
+}
+
+ul{
+    padding: 5px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+li{
+    display: inline-block;
+    padding: 1px 100px;
+}
+
+
+/****Cuerpo****/
+
+.section {
+    padding: 20px;
+    background-color: green;
+    width: 600px;
+    height: 900px;
+    margin: auto;   
+}
+
+time{
+    padding: 150px;
+}
+
+img{
+    width: 500px;
+    height: 300px;
+}
+
+/**** Pie de Pagina****/
+
+footer{
+    background-color: rgb(64, 95, 95);
+    font-size: 20px;
+}
+
